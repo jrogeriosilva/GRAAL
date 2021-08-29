@@ -1,0 +1,10 @@
+### C++ ###
+
+**/build/
+# Executables
+*.exe
+*.out
+*.app
+
+# Config
+*.vscode
