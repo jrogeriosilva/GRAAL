@@ -2,6 +2,7 @@
 **G**ene**R**ic **A**rray **A**lgorithms **L**ibrary.
 
 GRAAL is a C++ library for handling generic types.
+![image](https://user-images.githubusercontent.com/15113099/131263382-8e1b1029-bd79-4846-9d28-5d66d308bdc5.png)
 
 
 ## Compile using cmake
